@@ -1,0 +1,15 @@
+C:\Users\Ajdin\SmartLibrarySystem-TS\bin\Debug\net10.0\SmartLibrarySystem-TS.exe
+C:\Users\Ajdin\SmartLibrarySystem-TS\bin\Debug\net10.0\SmartLibrarySystem-TS.deps.json
+C:\Users\Ajdin\SmartLibrarySystem-TS\bin\Debug\net10.0\SmartLibrarySystem-TS.runtimeconfig.json
+C:\Users\Ajdin\SmartLibrarySystem-TS\bin\Debug\net10.0\SmartLibrarySystem-TS.dll
+C:\Users\Ajdin\SmartLibrarySystem-TS\bin\Debug\net10.0\SmartLibrarySystem-TS.pdb
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.AssemblyInfoInputs.cache
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.AssemblyInfo.cs
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.csproj.CoreCompileInputs.cache
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.sourcelink.json
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.dll
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\refint\SmartLibrarySystem-TS.dll
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.pdb
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\SmartLibrarySystem-TS.genruntimeconfig.cache
+C:\Users\Ajdin\SmartLibrarySystem-TS\obj\Debug\net10.0\ref\SmartLibrarySystem-TS.dll
